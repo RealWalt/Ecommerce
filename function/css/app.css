@@ -1,0 +1,127 @@
+/*html {
+    box-sizing: border-box;
+    font-size: 62.5%; /* 1REM + 10px/
+}
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6rem;
+    line-height: 2;
+}
+/* Globales 
+h1, h2, h3 {
+    font-family: 'Playfair Display', serif;
+    margin: 0 0 2rem 0;
+}
+h1 {
+    font-size: 3.8rem;
+}
+@media (min-width: 768px) { 
+    h1 {
+        font-size: 5rem;
+    }
+}
+h2 {
+    font-size: 3.2rem;
+}
+@media (min-width: 768px) { 
+    h2 {
+        font-size: 4rem;
+    }
+}
+h3 {
+    font-size: 2.3rem;
+}
+@media (min-width: 768px) { 
+    h3 {
+        font-size: 3rem;
+    }
+}
+a {
+    text-decoration: none;
+    color: #000;
+}
+.contenedor {
+    max-width: 120rem;
+    margin: 0 auto;
+}
+img {
+    max-width: 100%;
+    display: block;
+}
+.btn {
+    background-color: #8cbc00;
+    display: block;
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 900;
+    padding: 1rem;
+    transition: background-color .3s ease-out;
+    text-align: center;
+    border: none; 
+    width: 100%; 
+}
+.btn:hover {
+    background-color: #769c02;
+    cursor: pointer;
+}
+@media (min-width: 768px) { 
+    .btn {
+        width: auto;
+    }
+}
+
+/* Utilidades 
+.text-center {
+    text-align: center;
+}
+@media (min-width: 768px) { 
+    .max-width-30{
+        max-width: 30rem;
+    } 
+}
+
+*/
+
+
+h1{
+    font-size: 20px;
+}
+
+h1 span
+{
+    color: #0058bc;
+}
+
+h2 span
+{
+    color: #0058bc;
+}
+
+.navegacion
+{
+    background-color :#e1e1e1 ;
+}
+
+.navegacion
+{
+    text-transform: uppercase;
+}
+
+.sobre-nosotros
+{
+    background-color: red;
+    width: 200px;
+    padding: 25px;
+    margin-left: 5px;
+    box-sizing: content-box ;
+}
+
+header
+{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
